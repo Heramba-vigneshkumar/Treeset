@@ -1,0 +1,280 @@
+[
+    {
+      "id": "Fundamentals of Sales_0",
+      "question": "What is the primary goal of qualifying a lead?",
+      "options": [
+        { "id": "option_1", "text": "To determine if a prospect has the potential to become a customer.", "isCorrect": true },
+        { "id": "option_2", "text": "To immediately sell the product regardless of the prospect's needs.", "isCorrect": false },
+        { "id": "option_3", "text": "To collect as much personal data as possible.", "isCorrect": false },
+        { "id": "option_4", "text": "To guarantee a sale before meeting the customer.", "isCorrect": false }
+      ],
+      "hint": "Qualifying a lead helps identify if they have the need, budget, and authority to buy.",
+      "answerDescription": "Lead qualification ensures that the prospect is a good fit for the product or service before investing time in a sales pitch."
+    },
+    {
+      "id": "Fundamentals of Sales_1",
+      "question": "Why is active listening important in sales?",
+      "options": [
+        { "id": "option_1", "text": "It helps salespeople understand customer needs and build rapport.", "isCorrect": true },
+        { "id": "option_2", "text": "It allows salespeople to interrupt and correct customer misconceptions.", "isCorrect": false },
+        { "id": "option_3", "text": "It lets the salesperson control the conversation completely.", "isCorrect": false },
+        { "id": "option_4", "text": "It helps salespeople avoid answering difficult questions.", "isCorrect": false }
+      ],
+      "hint": "Listening to the customer is just as important as speaking to them.",
+      "answerDescription": "Active listening allows salespeople to uncover customer pain points, tailor solutions, and build trust."
+    },
+    {
+      "id": "Fundamentals of Sales_2",
+      "question": "What is the main objective of handling objections in sales?",
+      "options": [
+        { "id": "option_1", "text": "To argue with the prospect and prove them wrong.", "isCorrect": false },
+        { "id": "option_2", "text": "To ignore objections and push forward with the sale.", "isCorrect": false },
+        { "id": "option_3", "text": "To understand and address concerns to help the prospect make an informed decision.", "isCorrect": true },
+        { "id": "option_4", "text": "To avoid discussing potential issues with the product.", "isCorrect": false }
+      ],
+      "hint": "Objections should be seen as opportunities, not roadblocks.",
+      "answerDescription": "Handling objections effectively helps build trust, clarifies misunderstandings, and moves the sales process forward."
+    },
+    {
+      "id": "Fundamentals of Sales_3",
+      "question": "What is a unique selling proposition (USP)?",
+      "options": [
+        { "id": "option_1", "text": "A generic feature that all competitors offer.", "isCorrect": false },
+        { "id": "option_2", "text": "A statement that highlights what makes a product or service different and valuable.", "isCorrect": true },
+        { "id": "option_3", "text": "A temporary discount offered to increase sales.", "isCorrect": false },
+        { "id": "option_4", "text": "A script used to close every sale the same way.", "isCorrect": false }
+      ],
+      "hint": "Your USP should clearly differentiate your product from competitors.",
+      "answerDescription": "A USP is what sets a product apart from competitors by emphasizing its unique benefits and value to the customer."
+    },
+    {
+      "id": "Fundamentals of Sales_4",
+      "question": "Why is building rapport important in sales?",
+      "options": [
+        { "id": "option_1", "text": "It makes customers more likely to trust and engage with the salesperson.", "isCorrect": true },
+        { "id": "option_2", "text": "It allows the salesperson to talk more about themselves.", "isCorrect": false },
+        { "id": "option_3", "text": "It shortens the sales process by skipping key steps.", "isCorrect": false },
+        { "id": "option_4", "text": "It is only necessary for closing deals.", "isCorrect": false }
+      ],
+      "hint": "People are more likely to buy from those they know, like, and trust.",
+      "answerDescription": "Building rapport establishes trust and makes customers feel comfortable, which increases the chances of a successful sale."
+    },
+    {
+      "id": "Fundamentals of Sales_5",
+      "question": "What is the main purpose of a follow-up after a sales meeting?",
+      "options": [
+          { "id": "option_2", "text": "To pressure the prospect into buying immediately.", "isCorrect": false },
+          { "id": "option_1", "text": "To remind the prospect of the conversation and move the sale forward.", "isCorrect": true },
+        { "id": "option_3", "text": "To restart the sales process from the beginning.", "isCorrect": false },
+        { "id": "option_4", "text": "To check if the prospect remembers the salesperson's name.", "isCorrect": false }
+      ],
+      "hint": "A good follow-up keeps the conversation going and maintains engagement.",
+      "answerDescription": "Following up reinforces key points, answers any lingering questions, and keeps the prospect engaged in the buying process."
+    },
+    {
+      "id": "Fundamentals of Sales_6",
+      "question": "How does storytelling help in sales?",
+      "options": [
+          { "id": "option_2", "text": "It allows the salesperson to avoid answering tough questions.", "isCorrect": false },
+          { "id": "option_3", "text": "It distracts the prospect from the price of the product.", "isCorrect": false },
+          { "id": "option_4", "text": "It helps the salesperson talk more and listen less.", "isCorrect": false },
+          { "id": "option_1", "text": "It makes the sales pitch more engaging and relatable.", "isCorrect": true }
+      ],
+      "hint": "Stories help customers visualize how a product can benefit them.",
+      "answerDescription": "Storytelling makes sales pitches more compelling by illustrating real-world benefits in a way that resonates emotionally with prospects."
+    },
+    {
+        "id": "Fundamentals of Sales_7",
+        "question": "What is the primary benefit of asking open-ended questions in sales?",
+        "options": [
+        { "id": "option_1", "text": "They encourage the prospect to share detailed information.", "isCorrect": true },
+        { "id": "option_2", "text": "They allow the salesperson to control the conversation.", "isCorrect": false },
+        { "id": "option_3", "text": "They speed up the sales process by getting quick yes/no answers.", "isCorrect": false },
+        { "id": "option_4", "text": "They make the prospect feel obligated to buy.", "isCorrect": false }
+        ],
+        "hint": "Encouraging a conversation helps uncover customer needs.",
+        "answerDescription": "Open-ended questions help salespeople gather valuable insights by allowing prospects to express their challenges and needs freely."
+    },
+    {
+        "id": "Fundamentals of Sales_8",
+        "question": "What is the best way to handle a price objection in sales?",
+        "options": [
+            { "id": "option_2", "text": "Immediately offer a discount to close the deal.", "isCorrect": false },
+            { "id": "option_3", "text": "Tell the prospect that the price is non-negotiable.", "isCorrect": false },
+            { "id": "option_1", "text": "Highlight the value and benefits rather than just the cost.", "isCorrect": true },
+        { "id": "option_4", "text": "Ignore the objection and continue the pitch.", "isCorrect": false }
+        ],
+        "hint": "Value matters more than just the price.",
+        "answerDescription": "Handling price objections effectively involves demonstrating how the product’s benefits outweigh its cost, making it a worthwhile investment."
+    },
+    {
+        "id": "Fundamentals of Sales_9",
+        "question": "What is the most important factor in closing a sale?",
+        "options": [
+        { "id": "option_1", "text": "Building trust and addressing customer needs.", "isCorrect": true },
+        { "id": "option_2", "text": "Using aggressive sales tactics.", "isCorrect": false },
+        { "id": "option_3", "text": "Talking more than the customer.", "isCorrect": false },
+        { "id": "option_4", "text": "Avoiding objections to keep the conversation positive.", "isCorrect": false }
+        ],
+        "hint": "Customers buy from those they trust and who understand their problems.",
+        "answerDescription": "Successful closers focus on trust, relationship-building, and addressing the prospect’s needs to guide them toward a confident purchasing decision."
+    },
+    {
+        "id": "Fundamentals of Sales_10",
+        "question": "How does social proof impact sales?",
+        "options": [
+            { "id": "option_2", "text": "It forces prospects to buy a product they don’t need.", "isCorrect": false },
+            { "id": "option_1", "text": "It increases credibility and builds customer confidence.", "isCorrect": true },
+        { "id": "option_3", "text": "It is only useful for luxury products.", "isCorrect": false },
+        { "id": "option_4", "text": "It has no real impact on sales decisions.", "isCorrect": false }
+        ],
+        "hint": "People are more likely to buy when they see others benefiting from a product.",
+        "answerDescription": "Social proof, such as testimonials, reviews, and case studies, helps reassure potential buyers by showing how others have successfully used the product."
+    },
+    {
+        "id": "Fundamentals of Sales_11",
+        "question": "What is the key to a successful cold call?",
+        "options": [
+        { "id": "option_1", "text": "Personalization and providing immediate value.", "isCorrect": true },
+        { "id": "option_2", "text": "Speaking as quickly as possible to get through more calls.", "isCorrect": false },
+        { "id": "option_3", "text": "Avoiding small talk and getting straight to the pitch.", "isCorrect": false },
+        { "id": "option_4", "text": "Pressuring the prospect to make a decision immediately.", "isCorrect": false }
+        ],
+        "hint": "A good cold call feels like a conversation, not a sales pitch.",
+        "answerDescription": "Successful cold calls focus on understanding the prospect's needs, making a personal connection, and offering value right away."
+    },
+    {
+        "id": "Fundamentals of Sales_12",
+        "question": "Why is it important to research a prospect before a sales meeting?",
+        "options": [
+            { "id": "option_2", "text": "It helps the salesperson sell the same way to every prospect.", "isCorrect": false },
+            { "id": "option_3", "text": "It ensures the salesperson can control the conversation.", "isCorrect": false },
+            { "id": "option_1", "text": "It allows the salesperson to tailor their pitch to the prospect’s needs.", "isCorrect": true },
+        { "id": "option_4", "text": "It is not important because all customers are the same.", "isCorrect": false }
+        ],
+        "hint": "Understanding your prospect helps create a more relevant sales pitch.",
+        "answerDescription": "Researching a prospect beforehand enables the salesperson to personalize their approach, address pain points, and establish credibility."
+    },
+    {
+        "id": "Fundamentals of Sales_13",
+        "question": "What is the role of urgency in sales?",
+        "options": [
+            { "id": "option_2", "text": "It pressures customers into making purchases they don't need.", "isCorrect": false },
+            { "id": "option_1", "text": "It encourages prospects to make a decision sooner rather than later.", "isCorrect": true },
+        { "id": "option_3", "text": "It is unnecessary and should be avoided in sales.", "isCorrect": false },
+        { "id": "option_4", "text": "It only works for time-sensitive products.", "isCorrect": false }
+        ],
+        "hint": "Creating urgency can help prospects take action without feeling pressured.",
+        "answerDescription": "Properly used urgency motivates buyers to act quickly by highlighting limited availability, special offers, or time-sensitive benefits."
+    },
+    {
+        "id": "Fundamentals of Sales_14",
+        "question": "Why is follow-up important after a prospect says 'no'?",
+        "options": [
+            { "id": "option_2", "text": "Following up is a waste of time after rejection.", "isCorrect": false },
+            { "id": "option_3", "text": "It is only necessary if the prospect requested it.", "isCorrect": false },
+            { "id": "option_4", "text": "It makes the prospect feel pressured to change their mind.", "isCorrect": false },
+            { "id": "option_1", "text": "A ‘no’ today doesn’t mean ‘no’ forever.", "isCorrect": true }
+        ],
+        "hint": "Rejection doesn’t always mean the opportunity is lost.",
+        "answerDescription": "Many prospects who initially say 'no' may still buy later if their situation changes, so maintaining communication is key."
+    },
+    {
+        "id": "Fundamentals of Sales_15",
+        "question": "What is consultative selling?",
+        "options": [
+        { "id": "option_1", "text": "A sales approach focused on understanding customer needs and providing tailored solutions.", "isCorrect": true },
+        { "id": "option_2", "text": "A method where the salesperson talks the most to establish authority.", "isCorrect": false },
+        { "id": "option_3", "text": "Selling by offering the lowest possible price without considering customer needs.", "isCorrect": false },
+        { "id": "option_4", "text": "A technique that avoids asking questions and goes straight to pitching.", "isCorrect": false }
+        ],
+        "hint": "This approach prioritizes customer needs over just selling the product.",
+        "answerDescription": "Consultative selling focuses on building relationships, asking insightful questions, and providing personalized solutions to customers."
+    },
+    {
+        "id": "Fundamentals of Sales_16",
+        "question": "What is the main purpose of a value proposition?",
+        "options": [
+            { "id": "option_2", "text": "To list all features without linking them to customer needs.", "isCorrect": false },
+            { "id": "option_1", "text": "To clearly explain how a product benefits the customer.", "isCorrect": true },
+        { "id": "option_3", "text": "To compare the product with competitors’ offerings without explaining benefits.", "isCorrect": false },
+        { "id": "option_4", "text": "To convince customers to buy by using technical jargon.", "isCorrect": false }
+        ],
+        "hint": "Customers buy solutions, not just features.",
+        "answerDescription": "A value proposition explains why a product is relevant to the customer and how it solves their problems or improves their situation."
+    },
+    {
+        "id": "Fundamentals of Sales_17",
+        "question": "Why is emotional intelligence important in sales?",
+        "options": [
+            { "id": "option_2", "text": "It allows salespeople to manipulate customers into buying.", "isCorrect": false },
+            { "id": "option_1", "text": "It helps salespeople understand and respond to customer emotions effectively.", "isCorrect": true },
+        { "id": "option_3", "text": "It ensures that salespeople never experience rejection.", "isCorrect": false },
+        { "id": "option_4", "text": "It eliminates the need for product knowledge.", "isCorrect": false }
+        ],
+        "hint": "Understanding emotions can help build stronger relationships with customers.",
+        "answerDescription": "Emotional intelligence enables salespeople to connect with customers on a personal level, building trust and improving communication."
+    },
+    {
+        "id": "Fundamentals of Sales_18",
+        "question": "What is the benefit of using a sales script?",
+        "options": [
+            { "id": "option_2", "text": "It ensures that every sales call sounds robotic and rehearsed.", "isCorrect": false },
+            { "id": "option_3", "text": "It eliminates the need for active listening.", "isCorrect": false },
+            { "id": "option_4", "text": "It forces customers to respond in a predictable way.", "isCorrect": false },
+            { "id": "option_1", "text": "It provides structure while allowing flexibility to adapt to customer responses.", "isCorrect": true }
+        ],
+        "hint": "A good script guides, but doesn't replace, natural conversation.",
+        "answerDescription": "A well-prepared sales script helps structure conversations while allowing salespeople to adjust based on customer needs."
+    },
+    {
+        "id": "Fundamentals of Sales_19",
+        "question": "What is the advantage of using storytelling in sales?",
+        "options": [
+            { "id": "option_2", "text": "It helps salespeople avoid discussing technical details.", "isCorrect": false },
+            { "id": "option_3", "text": "It replaces the need for data and case studies.", "isCorrect": false },
+            { "id": "option_1", "text": "It makes information more engaging and relatable.", "isCorrect": true },
+        { "id": "option_4", "text": "It is only useful for entertainment purposes.", "isCorrect": false }
+        ],
+        "hint": "Stories help customers visualize how a product can improve their lives.",
+        "answerDescription": "Storytelling in sales makes the pitch more memorable, relatable, and emotionally impactful for the customer."
+    },
+    {
+        "id": "Fundamentals of Sales_20",
+        "question": "Why is follow-up crucial in sales?",
+        "options": [
+        { "id": "option_1", "text": "It keeps the prospect engaged and helps close deals.", "isCorrect": true },
+        { "id": "option_2", "text": "It gives prospects a chance to avoid making a decision.", "isCorrect": false },
+        { "id": "option_3", "text": "It is unnecessary if the prospect was initially uninterested.", "isCorrect": false },
+        { "id": "option_4", "text": "It is only useful for high-ticket sales.", "isCorrect": false }
+        ],
+        "hint": "Many sales happen after multiple interactions, not just the first one.",
+        "answerDescription": "Effective follow-up ensures prospects remain engaged, answers lingering questions, and moves them closer to a buying decision."
+    },
+    {
+        "id": "Fundamentals of Sales_21",
+        "question": "What is the main purpose of building rapport in sales?",
+        "options": [
+        { "id": "option_1", "text": "To create a sense of trust and connection with the customer.", "isCorrect": true },
+        { "id": "option_2", "text": "To impress the customer with industry jargon.", "isCorrect": false },
+        { "id": "option_3", "text": "To speed up the sales process by skipping relationship-building.", "isCorrect": false },
+        { "id": "option_4", "text": "To convince the customer to buy based on emotion alone.", "isCorrect": false }
+        ],
+        "hint": "People buy from those they trust and feel comfortable with.",
+        "answerDescription": "Rapport-building helps establish trust, making it easier for prospects to open up and consider the salesperson’s recommendations."
+    },
+    {
+        "id": "Fundamentals of Sales_22",
+        "question": "Why is understanding a prospect’s pain points important?",
+        "options": [
+            { "id": "option_2", "text": "It helps the salesperson close the deal faster by avoiding objections.", "isCorrect": false },
+            { "id": "option_1", "text": "It allows the salesperson to offer solutions that directly address their problems.", "isCorrect": true },
+        { "id": "option_3", "text": "It ensures the salesperson doesn’t have to ask many questions.", "isCorrect": false },
+        { "id": "option_4", "text": "It is only useful for selling high-end products.", "isCorrect": false }
+        ],
+        "hint": "Customers are more likely to buy solutions to their problems than just features.",
+        "answerDescription": "Identifying pain points helps salespeople tailor their pitch, making their solution more relevant and compelling to the customer."
+    }
+]
+      
+      
