@@ -1,8 +1,8 @@
 Fundamentals of Sales - 202
 Sales Process & Methodologies-228
-Sales Strategies & Techniques
+Sales Strategies & Techniques-
 Sales Tools & Technologies
-Negotiation & Closing
+Negotiation & Closing-
 Customer Relationship & Retention
 Modern Sales Trends
 Advanced Sales Techniques
@@ -11,4 +11,4 @@ Sales Communication & Presentation Skills
 Industry-Specific Sales
 Legal & Compliance in Sales
 Sales Leadership & Team Management
-Cross-Functional Collaboration in Sales
+Cross-Functional Collaboration in Sales-
