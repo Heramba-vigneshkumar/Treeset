@@ -1,3 +1,6 @@
+--------
+SALES
+--------
 Fundamentals of Sales - 202
 Sales Process & Methodologies-228
 Sales Strategies & Techniques-
@@ -12,3 +15,25 @@ Industry-Specific Sales-
 Legal & Compliance in Sales
 Sales Leadership & Team Management-
 Cross-Functional Collaboration in Sales-
+
+------------------
+COMMUNICATION
+------------------
+ Basics of Communication -
+ Communication Models & Theories -
+ Verbal & Non-Verbal Communication -
+
+ Verbal Communication
+ Non-Verbal Communication
+ Interpersonal Communication
+ Group Communication
+ Organizational Communication
+ Cross-Cultural Communication
+ Mass Communication
+ Health Communication
+ Political Communication
+ Communication Theory
+ Communication Technology
+ Interpersonal and Relationship Communication
+ Persuasion and Influence
+ Crisis Communication
