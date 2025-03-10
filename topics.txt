@@ -23,8 +23,6 @@ COMMUNICATION
  Communication Models & Theories -
  Verbal & Non-Verbal Communication -
 
- Verbal Communication
- Non-Verbal Communication
  Interpersonal Communication
  Group Communication
  Organizational Communication
@@ -33,10 +31,10 @@ COMMUNICATION
  Health Communication
  Political Communication
  Communication Theory
- Communication Technology
- Interpersonal and Relationship Communication
- Persuasion and Influence
- Crisis Communication
+ Communication Technology -
+ Interpersonal and Relationship Communication 
+ Persuasion and Influence -
+ Crisis Communication -
 
 
 
